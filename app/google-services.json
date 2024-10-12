@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1011167461904",
+    "project_id": "laba1-a6322",
+    "storage_bucket": "laba1-a6322.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011167461904:android:5ed442a8c159fc51390095",
+        "android_client_info": {
+          "package_name": "com.example.makeitso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOdy5LRRWicpJZx2YEO9MDwMrm-hyzrhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
